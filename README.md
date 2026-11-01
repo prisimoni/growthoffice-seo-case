@@ -36,9 +36,9 @@ Websites rendered through JavaScript frameworks require deliberate control over 
 
 ## Documentation and example
 
-- [Architecture and SEO considerations](docs/architecture.md)
-- [Technical validation checklist](docs/validation-checklist.md)
-- [Demonstration: metadata review](examples/metadata-review.md)
+- [Architecture and SEO considerations](architecture.md)
+- [Technical validation checklist](validation-checklist.md)
+- [Demonstration: metadata review](metadata-review.md)
 - [Privacy and security scope](SECURITY.md)
 
 ## Evidence and outcomes
